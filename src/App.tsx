@@ -82,7 +82,9 @@ function App() {
           </div>
         )}
       </div>
+      <p className=" copyright">Desarrollado por Fabián Antonio 2025</p>
     </div>
+    
   );
 }
 
